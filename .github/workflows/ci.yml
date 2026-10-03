@@ -27,4 +27,4 @@ jobs:
           DB_USER: root
           DB_PASSWORD: ""
           DB_NAME: tienda_poo
-        run: python -m pytest 08_pruebas/ -v
+        run: python -m pytest 08_pruebas/ poo-python-act/ -v
